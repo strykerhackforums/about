@@ -1,2 +1,2 @@
-# about
-Talks about the organization.
+- Owned by @strykerhacks
+We develop hacks and other code-related items.
